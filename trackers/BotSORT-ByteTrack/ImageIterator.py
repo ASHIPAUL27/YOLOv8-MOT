@@ -1,15 +1,5 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 import os
 import cv2
-
-
-# In[2]:
-
 
 class ImageIterator:
     def __init__(self, folder_path):
